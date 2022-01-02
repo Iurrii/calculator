@@ -1,0 +1,21 @@
+<svg width="50.00000000000001" height="50.00000000000001" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="602" width="802" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_1" d="m36,45l-22,0c-4.971,0 -9,-4.029 -9,-9l0,-22c0,-4.971 4.029,-9 9,-9l22,0c4.971,0 9,4.029 9,9l0,22c0,4.971 -4.029,9 -9,9z" stroke-width="2" stroke-miterlimit="10" stroke="#000000" fill="none"/>
+  <path fill="#afccee" id="svg_2" d="m36,45l-22,0c-4.971,0 -9,-4.029 -9,-9l0,-22c0,-4.971 4.029,-9 9,-9l22,0c4.971,0 9,4.029 9,9l0,22c0,4.971 -4.029,9 -9,9zm0,-9l0,-22c0,-2.209 -1.791,-4 -4,-4l-14,0c-2.209,0 -4,1.791 -4,4l0,22c0,2.209 1.791,4 4,4l14,0c2.209,0 4,-1.791 4,-4z"/>
+  <path fill="#afccee" id="svg_3" d="m32,19l-14,0c-0.552,0 -1,-0.448 -1,-1l0,-4c0,-0.552 0.448,-1 1,-1l14,0c0.552,0 1,0.448 1,1l0,4c0,0.552 -0.448,1 -1,1z"/>
+  <circle fill="#afccee" id="svg_4" r="2" cy="23" cx="19"/>
+  <circle fill="#afccee" id="svg_5" r="2" cy="23" cx="25"/>
+  <circle fill="#afccee" id="svg_6" r="2" cy="23" cx="31"/>
+  <circle fill="#afccee" id="svg_7" r="2" cy="29" cx="19"/>
+  <circle fill="#afccee" id="svg_8" r="2" cy="29" cx="25"/>
+  <circle fill="#afccee" id="svg_9" r="2" cy="29" cx="31"/>
+  <circle fill="#afccee" id="svg_10" r="2" cy="35" cx="31"/>
+  <path fill="#afccee" id="svg_11" d="m19,37l6,0c1.105,0 2,-0.895 2,-2l0,0c0,-1.105 -0.895,-2 -2,-2l-6,0c-1.105,0 -2,0.895 -2,2l0,0c0,1.105 0.895,2 2,2z"/>
+ </g>
+</svg>
